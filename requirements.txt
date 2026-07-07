@@ -3,3 +3,4 @@ pandas
 pyarrow
 plotly
 numpy
+duckdb
